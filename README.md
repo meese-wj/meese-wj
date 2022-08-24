@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">Physics student interested in emergent phenomena</h3>
 
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meese-wj&label=Profile%20views&color=0e75b6&style=flat" alt="meese-wj" /> </p>
+--->
 
 - 🔭 I’m currently working on **my PhD in using Monte Carlo methods to study quantum materials.**
 
@@ -21,4 +23,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meese-wj&hide=jupyter%20notebook,cmake,css,html,javascript&exclude=jm4cp&show_icons=true&locale=en&layout=compact" alt="meese-wj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meese-wj&show_icons=true&locale=en" alt="meese-wj" /></p>
+
+<p style="font-size:0.5em">
+<em>
+This Github README was generated with the help of <a href="https://github.com/rahuldkjain" target="_blank">Rahul Jain's</a> <a href="https://github.com/rahuldkjain/github-profile-readme-generator" target="_blank">Github Profile Readme Generator</a>.
+</em>
+</p>
 
