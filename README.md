@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my PhD in using Monte Carlo methods to study quantum materials.**
 
-- 📝 I regularly write articles on [the Julia programming language in computational physics](https://meese-wj.github.io/JM4CP/)
+<!--- - 📝 I regularly write articles on [the Julia programming language in computational physics](https://meese-wj.github.io/JM4CP/) --->
 
 - 💬 Ask me about **Physics, Distributed Computing, Julia, C++, MPI**
 
