@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
-<h3 align="center">Physics student interested in emergent phenomena</h3>
+<h3 align="center">Physicist interested in emergent phenomena</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meese-wj&label=Profile%20views&color=0e75b6&style=flat" alt="meese-wj" /> </p>
 
-- 🔭 I’m currently working on **my PhD in using Monte Carlo methods to study quantum materials.**
+- 🔭 I’m currently working on a few different code bases to study collective behavior in quantum materials.
 
 <!--- - 📝 I regularly write articles on [the Julia programming language in computational physics](https://meese-wj.github.io/JM4CP/) --->
 
